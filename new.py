@@ -45,8 +45,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-openai.api_key = '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'
-bot_token = "6144904939:AAEUJWw9gRzxYHAFmB0yhvzs5MynlFvwXT4"
+openai.api_key = "O'zingizning api key YOZING"
+bot_token = "ozingizning bot token YOZING"
 
 bot = Bot(token=bot_token) 
 dp = Dispatcher(bot)
